@@ -13,3 +13,7 @@ A simple python script to bulk download music from spotify playlists.
 
 * Run `py main.py <link-to-the-playlist>` to start the download process.
 
+## Contribute
+
+Idk how, but sure.
+

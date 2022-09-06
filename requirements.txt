@@ -1,0 +1,2 @@
+spotipy
+youtube_dl

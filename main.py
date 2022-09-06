@@ -56,7 +56,7 @@ def main():
         for i in track_loader.tracks:
             query = f"{i.artist} - {i.name} Lyrics".replace(":", "").replace("\"", "")
 
-            download_location = '/'.join(os.getcwd().split('/')[:3]) + '/{}'.format(pl["name"])
+            download_location = '/'.join(os.getcwd().split('/')[:3]) + '/downloads/{}'.format(pl["name"])
 
             ydl_opts = {
                 'format': 'bestaudio/best',

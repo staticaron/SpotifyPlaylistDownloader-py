@@ -123,6 +123,7 @@ celerybeat.pid
 .env
 .venv
 .vscode
+/downloads
 env/
 venv/
 ENV/
